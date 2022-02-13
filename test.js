@@ -1,1 +1,1 @@
-alert("LOL")
+window.onload = alert("LOL")
